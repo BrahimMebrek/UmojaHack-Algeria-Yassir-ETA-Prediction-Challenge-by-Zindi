@@ -1,5 +1,6 @@
 # Zindi Solution Team indus.csv 
-Our solution to the data science hackathon by Yassir, by our team indus.csv, which was ranked 3th on public leaderboard and 2nd on private leaderboard.
+Our solution to the data science hackathon Yassir ETA predictions by UmojaHack Algeria on the Zindi platform.
+Our team indus.csv, ranked 2nd on the private leaderboard, and won the first prize after deliberation.
 
 ![](https://github.com/Rostane-roro/UmojaHack-Algeria-Yassir-ETA-Prediction-Challenge-by-UmojaHack-Africa/blob/master/Zindi_plateform.PNG "Zindi")
 
