@@ -1,0 +1,31 @@
+Premier Tuto Messenger Bot using Node 
+Link : https://www.youtube.com/watch?v=GxX7rCSdoOA
+
+[] start the projet
+    [] clone repo : https://github.com/haryphamdev/quickstart-node.js-project-with-messenger-platform
+    [] run : npm install
+    [] run : npm start
+
+[] heroku
+    [] installing heroku
+        [] install heroku https://devcenter.heroku.com/articles/heroku-cli
+        [] npm install -g heroku
+    [] create a new heroku app
+    [] deploy heroku on the cloud
+        [] run : heroku git:remote -a guessra-0
+        [] run : heroku config:set NPM_CONFIG_PRODUCTION=false
+        [] run : git push heroku master
+    [] set up heroku environment
+        [] go to : heroku app settings reveal config vars
+        [] set : KEY : NODE_ENV
+        [] set : VALUE : development 
+        [] set : KEY : PORT
+        [] set : VALUE : 8080
+        [] set : KEY : MY_VERIFY_TOKEN
+        [] set : VALUE (any value) : Guessra0Token
+        [] set : KEY : PAGE_ACCESS_TOKEN
+        [] set : VALUE (any value) : ChangeLater
+    [] click : open app
+
+
+ 
